@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
   - HTML & CSS
   - Python
-
+  - VisualBasic
+  
 - 📫 How to reach me ...
   - [Personal email](mailto:felixcat-ita@proton.me)
 
