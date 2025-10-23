@@ -1,12 +1,10 @@
-# Hi, welcome to my github page! (・∀・)ノ	
+# Hi, welcome to my github page
 
 - 🌱 I’m currently learning ...
   - HTML & CSS
-  - Python
-  - VisualBasic
+  - C#
   
-- 📫 How to reach me ...
-  - [Personal email](mailto:felixcat-ita@proton.me)
+
 
 <!---
 felixcat-git/felixcat-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
